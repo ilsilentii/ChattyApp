@@ -29,3 +29,5 @@ open http://localhost:3000
 * Webpack
 * [babel-loader](https://github.com/babel/babel-loader)
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
+
+![alt text](https://github.com/ilsilentii/ChattyApp/blob/master/chatty-app-11-chatting.png)
